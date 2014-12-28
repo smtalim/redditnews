@@ -1,8 +1,7 @@
 An Internal Project: redditnews
 -------------------------------
 
-[![baby-gopher](https://raw2.github.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png)](http://www.babygopher.org)
-
+[![baby-gopher](https://raw.github.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png)](http://www.babygopher.org)
 These projects specifications were given to a "Baby Gopher".
 
 > "I am keen to be abreast with what's happening in the **Golang** world. To that end, we will write a command-line program (**`redditnews.go`**) that fetches and displays the latest headlines from the golang page on Reddit.
